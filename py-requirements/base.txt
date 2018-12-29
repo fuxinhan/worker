@@ -1,0 +1,63 @@
+Django
+django-extensions
+
+django-disposable-email-checker
+
+# PostgresSQL
+psycopg2
+
+# serve files
+whitenoise
+
+# Rest Framework
+djangorestframework
+
+# Sentry
+raven
+
+# for date processing
+python-dateutil
+
+# Logging
+# git+https://github.com/Seedstars/django-rest-logger.git
+
+django-rest-knox
+
+# xadmin
+# git+git://github.com/sshwsfc/xadmin.git@django2
+
+django-rest-swagger
+
+djangorestframework
+
+markdown       
+
+django-filter
+
+djangorestframework-jwt
+
+django-cors-headers
+
+drf-extensions
+
+pycryptodome
+
+django-redis
+
+xlwt
+
+xlsxwriter
+
+coreapi
+
+requests
+
+django-crispy-forms
+
+django-formtools
+
+django-import-export
+
+django-simple-captcha
+        
+django-pure-pagination

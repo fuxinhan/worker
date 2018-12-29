@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django-extensions = "*"
+django-disposable-email-checker = "*"
+psycopg2 = "*"
+whitenoise = "*"
+djangorestframework = "*"
+raven = "*"
+python-dateutil = "*"
+django-rest-knox = "*"
+django-rest-swagger = "*"
+Django = "*"
+django-rest-logger = "*"
+django-crispy-forms = "*"
+django-import-export = "*"
+
+[requires]
+python_version = "3.7"
